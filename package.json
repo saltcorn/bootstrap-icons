@@ -24,5 +24,8 @@
       "no-empty": "warn",
       "no-fallthrough": "warn"
     }
+  },
+  "dependencies": {
+    "bootstrap-icons": "^1.13.1"
   }
 }

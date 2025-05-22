@@ -7,7 +7,7 @@ module.exports = {
     {
       css: `/plugins/public/bootstrap-icons@${
         require("./package.json").version
-      }/bootstrap-icons.css`,
+      }/bootstrap-icons.min.css`,
     },
   ],
   icons: icons.map((icon) => `bi bi-${icon}`),
