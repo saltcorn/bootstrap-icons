@@ -1,5 +1,5 @@
 {
-  "name": "bootstrap-icons",
+  "name": "@saltcorn/bootstrap-icons",
   "version": "0.1.0",
   "description": "Bootstrap icons loader",
   "main": "index.js",
